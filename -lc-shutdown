@@ -1,0 +1,3 @@
+# lifecycle shutdown script fragment
+# will be sourced from im-reset script, current dir - one level up
+echo "Shutting down"
